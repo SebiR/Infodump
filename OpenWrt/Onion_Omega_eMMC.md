@@ -1,4 +1,4 @@
-[!CAUTION]
+> [!CAUTION]
 > This tutorial is currently AI generated and will be tested by a real human. If this note disappears, the tutorial worked
 
 # Expanding OpenWrt Root Filesystem to eMMC Storage
