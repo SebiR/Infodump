@@ -1,6 +1,8 @@
 > [!CAUTION]
 > This tutorial is currently AI generated and will be tested by a real human. If this note disappears, the tutorial worked
 
+https://docs.onion.io/omega2-docs/boot-from-external-storage.html
+
 # Expanding OpenWrt Root Filesystem to eMMC Storage
 
 ## Prerequisites
@@ -59,7 +61,7 @@ mount /dev/mmcblk0p1 /mnt/emmc
 Use `tar` to copy the current root filesystem to the eMMC:
 
 ```sh
-tar -cvpzf /mnt/emmc/rootfs.tar.gz --exclude=/mnt --exclude=/proc --exclude=/sys --exclude=/dev --exclude=/run --exclude=/tmp /
+tar -X '/mnt' -X '/proc' -X '/sys' -X '/dev' -X '/tmp' -cvpzf /mnt/emmc/rootfs.tar.gz /
 cd /mnt/emmc
 mkdir rootfs
 cd rootfs
