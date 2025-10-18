@@ -37,4 +37,4 @@
 * VALUE in Symbols Layer centered below or above Symbols
 * 0.05 size, 10% ratio
 
-<img src="./media/supply_symbol_font.png"> 
+<img src="./media/supply_symbol_font.png" width="200"> 
