@@ -29,3 +29,12 @@
 <img src="./media/symbol_Labeling.png" width="300"> 
 
 ## Footprints
+
+# Special Parts
+
+## Supply Symbols
+
+* VALUE in Symbols Layer centered below or above Symbols
+* 0.05 size, 10% ratio
+
+<img src="./media/supply_symbol_font.png"> 
