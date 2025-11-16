@@ -30,6 +30,9 @@
 
 ## Footprints
 
+### Labeling
+* NAMEs and VALUEs are size 1mm, ratio 10%, alinged center
+
 # Special Parts
 
 ## Supply Symbols
