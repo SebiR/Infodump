@@ -1,11 +1,11 @@
 # ESP8266/ESP8282
 
-| **Name** 	| **Picture** 											| **Processor** 	| **GPIOs (excl. UART)** 	| **SMT** 	|       **THT**      	|   **PCB Antenna**  	| **U.fl Connector** 	|                  **Remarks**                  	|
-|:--------:	|:-----------:											|:-------------:	|:----------------------:	|:-------:	|:------------------:	|:------------------:	|:------------------:	|:---------------------------------------------:	|
-|  ESP-01  	|<img src="./pictures/esp01.jpg" width="50">			|               	|            2           	| :x:     	| :white_check_mark: 	| :white_check_mark: 	| :x:                	|                                               	|
-|  ESP-01S 	|<img src="./pictures/esp01s.jpg" width="50">			|               	|            2           	| :x:     	| :white_check_mark: 	| :white_check_mark: 	| :x:                	| successor of ESP-01 (better antenna matching) 	|
-|  ESP-01F 	|          											   	|               	|                        	|         	|                    	|                    	|                    	|                                               	|
-|  ESP-01M 	|           										  	|               	|                        	|         	|                    	|                    	|                    	|                                               	|
-|          	|             											|               	|                        	|         	|                    	|                    	|                    	|                                               	|
-|          	|             											|               	|                        	|         	|                    	|                    	|                    	|                                               	|
-|          	|             											|               	|                        	|         	|                    	|                    	|                    	|                                               	|
+| **Name** 		| **Picture** 											| **Processor** 	| **GPIOs (excl. UART)** 	| **SMT** 				|       **THT**      	|   **PCB Antenna**  	| **U.fl Connector** 	|                  **Remarks**                  	|
+|:----------:	|:---------------------------------------------------:	|:-------------:	|:----------------------:	|:-------:				|:------------------:	|:------------------:	|:------------------:	|:---------------------------------------------:	|
+|  ESP-01 	 	| <img src="./pictures/esp01.jpg" width="60">			|               	|            2           	| :x:     				| :white_check_mark: 	| :white_check_mark: 	| :x:                	|                                               	|
+|  ESP-01S 		| <img src="./pictures/esp01s.jpg" width="60">			|               	|            2           	| :x:    			 	| :white_check_mark: 	| :white_check_mark: 	| :x:                	| successor of ESP-01 (better antenna matching) 	|
+|  ESP-01F 		| <img src="./pictures/esp01f.jpg" width="60">		  	|               	|            9           	| :white_check_mark:	| :x:                  	| :x:                 	| :x:                  	|                                               	|
+|  ESP-01M 		| <img src="./pictures/esp01m.jpg" width="60">		  	|               	|           11           	|         				|                    	|                    	|                    	|                                               	|
+|          		|             											|               	|                        	|         				|                    	|                    	|                    	|                                               	|
+|          		|             											|               	|                        	|         				|                    	|                    	|                    	|                                               	|
+|          		|             											|               	|                        	|         				|                    	|                    	|                    	|                                               	|
