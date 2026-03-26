@@ -11,7 +11,8 @@ The goal was to control an ePaper display connected to a Raspberry Pi in Node-RE
 ### Python/Waveshare
 Install Python3 and the Waveshare ePaper display examples as described [in this Waveshare tutorial](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT_Manual#Working_With_Raspberry_Pi)
 
-```# Create subfolder in /home/pi for Python projects
+```bash
+# Create subfolder in /home/pi for Python projects
 mkdir python
 cd python/
 mkdir epaper
